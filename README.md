@@ -31,7 +31,7 @@ This is where learning, breaking, and securing come together.
 ## 🌐 Connect with Me
 
 - 📫 **Email:** ilambharathi2k.aadhi@gmail.com
-- 💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/ilambharathi)
+- 💼 **LinkedIn:** https://linkedin.com/in/ilambharathi
 
 
 ---
